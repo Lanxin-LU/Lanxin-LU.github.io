@@ -105,6 +105,27 @@
         </div>
     </nav>
 
+    <style>
+        .top-section {
+            /* 背景图完整显示 */
+            background-size: cover !important;
+            background-repeat: no-repeat !important;
+            background-position: center center !important;
+
+            /* 取消任何滤镜 */
+            filter: none !important;
+            /* 取消混合模式 */
+            background-blend-mode: normal !important;
+            /* 确保无底色 */
+            background-color: transparent !important;
+        }
+        /* 去掉可能的伪元素遮罩 */
+        .top-section::before,
+        .top-section::after {
+            content: none !important;
+        }
+    </style>
+
     <!-- Top Section -->
     <section class="top-section" style="background-image: url('static/assets/img/background.png'); background-size: contain; background-repeat: no-repeat;
     background-position: center center; filter: none;">
