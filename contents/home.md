@@ -1,4 +1,4 @@
-I am a full-time Ph.D. candidate at the Michael Smurfit Graduate Business School, University College Dublin. I previously served as a Research Intern in the International Financial Division of the Central Bank of Ireland.
+I am a full-time Ph.D. candidate at the Michael Smurfit Graduate Business School, University College Dublin. I previously served as a research intern in the international financial division of the Central Bank of Ireland.
 
 <strong>Research Interests</strong>: Asset Pricing & Volatility Modeling; Financial Econometrics; Fintech
 
