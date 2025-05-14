@@ -1,16 +1,13 @@
+Welcome to my website!
 
+I am a full-time Ph.D. candidate at the Michael Smurfit Graduate Business School, University College Dublin.
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+## Research Interests
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Asset Pricing & Volatility Modeling; Financial Econometrics; Fintech
+
 
 #### Email
-sli[at]cumt.edu.cn
+lulanxin1996@gmail.com
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
