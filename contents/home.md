@@ -5,11 +5,15 @@ I am a full-time Ph.D. candidate at the Michael Smurfit Graduate Business School
 
 ## Research Interests
 
-Asset Pricing & Volatility Modeling; Financial Econometrics; Fintech
+Asset Pricing & Volatility Modeling; Financial Econometrics; Fintech\
 
 
+You can reach me via e-mail: lulanxin1996@gmail.com\
 
-#### Email
-lulanxin1996@gmail.com
+
+References can be obtained from:
+- Prof. Dr. Valerio Poti, Professor of Finance in the Business School of University College Dublin
+- Dr. Richard McGee, Assistant Professor of Finance in the Business School of University College Dublin
+-
 
 
