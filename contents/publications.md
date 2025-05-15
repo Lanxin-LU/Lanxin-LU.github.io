@@ -9,5 +9,6 @@
 <strong>Will be Presented at</strong>: IAF PhD Conference 2025
 
 ### Publications
-- <strong>Risk Preference of Irish-Domiciled Investment Fund </strong>, with Paweł Fiedor
+- [Risk Preference of Irish-Domiciled Investment Fund](https://www.centralbank.ie/docs/default-source/publications/financial-stability-notes/risk-preference-irish-domiciled-investment-funds.pdf?sfvrsn=40ea6b1a_3), with Paweł Fiedor
 - [Evaluating Financial Relational Graphs: Interpretation Before Prediction](https://doi.org/10.1145/3677052.3698644), with Yingjie Niu, Rian Dolphin, Valerio Poti, Ruihai Dong
+- [The impact of Chinese monetary policy on co-movements between money and capital markets](https://doi.org/10.1080/00036846.2019.1606407), With Wang, Yang-Chao, Jui-Jung Tsai
