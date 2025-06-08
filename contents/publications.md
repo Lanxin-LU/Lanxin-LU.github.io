@@ -5,8 +5,8 @@
 <strong>Presented at</strong>: International Association for Applied Econometrics, 2024; 29th Annual Conference of Multinational Finance Society, 2023; the Irish Academy of Finance 4th Annual Conference, 2023
 
 ### Work in Progress
-- <strong>Expected and Unexpected Trading Volumes in Bitcoin Markets: Implications for Volatility Prediction and Price Formation </strong>, with Valerio Poti, Richard McGee\
-<strong>Will be Presented at</strong>: IAF PhD Conference 2025
+- <strong>Tales of the Unexpected: The Impact of Bitcoin Volume Surprises in Crypto and Beyond </strong>, with Valerio Poti, Richard McGee\
+<strong>Presented at</strong>: IAF PhD Conference 2025
 
 ### Publications
 - [Risk Preference of Irish-Domiciled Investment Fund](https://www.centralbank.ie/docs/default-source/publications/financial-stability-notes/risk-preference-irish-domiciled-investment-funds.pdf?sfvrsn=40ea6b1a_3), with Paweł Fiedor
