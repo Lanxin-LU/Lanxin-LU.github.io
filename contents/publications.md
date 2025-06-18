@@ -7,6 +7,7 @@
 ### Work in Progress
 - <strong>Tales of the Unexpected: The Impact of Bitcoin Volume Surprises in Crypto and Beyond </strong>, with Valerio Poti, Richard McGee\
 <strong>Presented at</strong>: IAF PhD Conference 2025
+<strong> Annals of Operations Research </strong>: under review
 
 ### Publications
 - [Risk Preference of Irish-Domiciled Investment Fund](https://www.centralbank.ie/docs/default-source/publications/financial-stability-notes/risk-preference-irish-domiciled-investment-funds.pdf?sfvrsn=40ea6b1a_3), with Paweł Fiedor
