@@ -29,5 +29,5 @@
 
 ### Conference and Presentations
 2025: <strong>IAF PhD Conference</strong> University College Cork, <strong>Financial Stability Seminar</strong> Central Bank of Ireland\
-2024: <strong>ICAIF New York University</strong>, <strong>IAAE</strong> Xiamen University\
+2024: <strong>ICAIF</strong> New York University, <strong>IAAE</strong> Xiamen University\
 2023: <strong>MFS</strong> Neapolis University Pafos, <strong>IAF</strong> Limerick, <strong>UCD Doctoral Centre Research Symposium</strong> University College Dublin
