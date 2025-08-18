@@ -1,6 +1,6 @@
 I am a full-time Ph.D. candidate at the Michael Smurfit Graduate Business School, University College Dublin. I previously served as a research intern in the international financial division of the Central Bank of Ireland.
 
-<strong>Research Interests</strong>: Empirical Asset Pricing; Volatility Modeling; Cryptocurrencies; Financial Econometrics; Fintech
+<strong>Research Interests</strong>: Empirical Asset Pricing; FinTech; Financial Econometrics; Volatility Modeling; Cryptocurrencies
 
 You can reach me via e-mail: lulanxin1996@gmail.com
 
