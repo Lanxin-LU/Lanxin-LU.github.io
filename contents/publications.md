@@ -14,7 +14,7 @@
 <strong>Annals of Operations Research </strong>: under review
 
 - <strong>Graph Generation Networks</strong>, with Yingjie Niu, Changhong Jin, Ruihai Dong\
-<strong>the 40th Annual AAAI Conference on Artificial Intelligence </strong>: under review
+<strong> International World Wide Web Conference 2026 </strong>: under review
 
 - <strong>The Impact of RMB Internationalization and Sino-US Trade Friction on the Co-Movement of RMB Central Parity, Onshore, and Offshore Exchange Rates</strong>, with Wang, Yang-Chao, Jui-Jung Tsai\
 <strong>Sustainability</strong>: under review
